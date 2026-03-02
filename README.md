@@ -4,7 +4,7 @@ react-native-fast-onnx is a react native package to run onnx models built with N
 
 [![Version](https://img.shields.io/npm/v/react-native-fast-onnx.svg)](https://www.npmjs.com/package/react-native-fast-onnx)
 [![Downloads](https://img.shields.io/npm/dm/react-native-fast-onnx.svg)](https://www.npmjs.com/package/react-native-fast-onnx)
-[![License](https://img.shields.io/npm/l/react-native-fast-onnx.svg)](https://github.com/patrickkabwe/react-native-fast-onnx/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## Requirements
 

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": [
+    "fastonnx"
+  ],
+  "ios": {
+    "iosModuleName": "FastOnnx"
+  },
+  "android": {
+    "androidNamespace": [
+      "fastonnx"
+    ],
+    "androidCxxLibName": "FastOnnx"
+  },
+  "autolinking": {
+    "FastOnnx": {
+      "cpp": "HybridFastOnnx"
+    }
+  },
+  "ignorePaths": [
+    "**/node_modules"
+  ]
+}
